@@ -1,15 +1,12 @@
-# Ignore Visual Studio files
-.vs/
-*.user
-*.suo
-
-# Ignore build results
-bin/
-obj/
-
-# Ignore other unnecessary files
-.DS_Store
-
-# Ignore Docker files if not needed
-.docker/
-docker-compose.yml
+# Ignore Visual Studio files 
+.vs/ 
+*.user 
+*.suo 
+# Ignore build results 
+bin/ 
+obj/ 
+# Ignore other unnecessary files 
+.DS_Store 
+# Ignore Docker files if not needed 
+.docker/ 
+docker-compose.yml 
